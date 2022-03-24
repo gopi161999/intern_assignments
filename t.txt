@@ -1,0 +1,17 @@
+internship day 2 (23/02/22)
+ 
+        Today morning i learned new concepts in html, i was suggested by george ,Its about html tags like <a> , <h>, <br>, <b>. 
+after thati learned some terminal commands for example basic commands. I learned basic Commands pwd — When you first open the terminal,
+you are in the home directory of your user. To know which directory you are in, you can use the “pwd” command. It gives us the absolute path,
+which means the path that starts from the root. cd — Use the "cd" command to go to a directory. For example, if you are in the home folder, 
+and you want to go to the downloads folder, then you can type in “cd Downloads”.mkdir & rmdir — Use the mkdir command when you need 
+to create a folder or a directory. For example,if you want to make a directory called “DIY”, then you can type “mkdir DIY”. 
+Touch — The touch command is used to create a file. It can be anything, from an empty txt file to an empty zip file.  man & --help — To
+know more about a command and how to use it, use the man command. It shows the manual pages of the command. cp — Use the cp command to copy
+files through the command line. It takes two arguments: The first is the location of the file to be copied, the second is where to copy.
+mv — Use the mv command to move files through the command line. We can also use the mv command to rename a file. mv — Use the mv command 
+to move files through the command line. We can also use the mv command to rename a file.I learned Intermediate Commands The "echo" command 
+helps us move some data, usually text into a file. cat — Use the cat command to display the contents of a file. It is usually used to easily 
+view programs. sudo — A widely used command in the Linux command line, sudo stands for "SuperUser Do". finally i learned problems solving 
+concepts. its about how to understand the problems and how to solve the problems. And finally i learned vim concepts, its about how to open
+the vim and how create a file, finally i solved the geogre given problem which about add two numbers from html by using js. 
