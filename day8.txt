@@ -1,0 +1,33 @@
+Day 8
+
+   I was learned something called get and post methods how works in web browser, and how it was sent request to server and how it was sent data through post methods, i implemented that i ran code in my terminal using node js , before that i learned some extra features about node js.
+i got some basic idea about firebase and how it was worked in.Google Firebase is a Google-backed application development software that enables developers to develop iOS, Android and Web apps. Firebase provides tools for tracking analytics, reporting and fixing app crashes, creating marketing and product experiment. Firebase was early to take the form of a database that is not limited to one physical computer. Its modern form allows it to split workloads between multiple machines by either splitting the datasets, creating copies of their bits, or both. Firebase extends the algorithms used for datacenter consistency to the entire network by treating the data stored on users’ phones or desktops as local versions of the big database. In essence, your phone or your laptop is now part of the cloud. html was next thing i learned, the <div> and margin and padding in css.The <div> tag defines a division or a section in an HTML document. The <div> tag is used as a container for HTML elements - which is then styled with CSS or manipulated with JavaScript. The <div> tag is easily styled by using the class or id attribute. Any sort of content can be put inside the <div> tag.
+Margins are used to create space around elements, outside of any defined borders.The CSS margin properties are used to create space around elements, outside of any defined borders. With CSS, you have full control over the margins. There are properties for setting the margin for each side of an element (top, right, bottom, and left). 
+CSS has properties for specifying the margin for each side of an element:
+    1.margin-top
+    2.margin-right
+    3.margin-bottom
+    4.margin-left
+
+All the margin properties can have the following values:
+    1.auto - the browser calculates the margin
+    2.length - specifies a margin in px, pt, cm, etc.
+    3.% - specifies a margin in % of the width of the containing element
+    4.inherit - specifies that the margin should be inherited from the parent element
+    5.Negative values are allowed.
+
+Padding is used to create space around an element's content, inside of any defined borders.The CSS padding properties are used to generate space around an element's content, inside of any defined borders. With CSS, you have full control over the padding. There are properties for setting the padding for each side of an element (top, right, bottom, and left).
+CSS has properties for specifying the padding for each side of an element:
+    1.padding-top
+    2.padding-right
+    3.padding-bottom
+    4.padding-left
+
+All the padding properties can have the following values:
+    1.length - specifies a padding in px, pt, cm, etc.
+    2.% - specifies a padding in % of the width of the containing element
+    3.inherit - specifies that the padding should be inherited from the parent element
+finally i learned some idea about alogarithm and all.
+
+
+
