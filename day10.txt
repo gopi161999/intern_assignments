@@ -1,0 +1,29 @@
+Day 10
+
+
+    I learned something called what is data and how it be used in real world, data is any set of characters that is gathered and translated for some purpose, usually analysis. If data is not put into context, it doesn't do anything to a human or computer. data was generally classfied into following ways, there are numbers, text , image, audio, vedio ect.., data is nothing but information about anything. the basic operation of data are arithmatic operation and boolean operation. An arithmetic operator is a mathematical function that takes two operands and performs a calculation on them. They are used in common arithmetic and most computer languages contain a set of such operators that can be used within equations to perform a number of types of sequential calculation. Basic arithmetic operators include: 
+   
+   * Addition (+)
+   * Subtraction (-)
+   * Multiplication (×)
+   * Division (÷)
+   * modulus (%)
+   * increasing operator (++)
+   * decreasing operator (--)
+
+addition
+    The addition is a mathematical process of adding things together. The addition process is denoted by ‘+’ sign. It involves combining two or more numbers into a single term. In addition process, the order does not matter. It means that the addition process is commutative. It can involve any type of number whether it be a real or complex number, fraction, or decimals.example: 6+3=9
+
+Subtraction
+    The subtraction operation gives the difference between two numbers. Subtraction is denoted by ‘-‘ sign. It is almost similar to addition but is the conjugate of the second term. It is the inverse process of addition. The addition of the term with the negative term is known as subtraction. This process is mostly used to find how many are left when some things are taken away. example: 3-1=2
+
+Multiplication 
+    Multiplication is known as repeated addition. It is denoted by ‘×’ or ‘*’. It also combines with two or more values to result in a single value. The multiplication process involves multiplicand, multiplier. The result of the multiplication of multiplicand and the multiplier is called the product
+Example: 2 × 3 = 6  
+
+Division
+   The division is usually denoted by ‘÷‘ and is the inverse of multiplication. It constitutes two terms dividend and divisor, where the dividend is divided by the divisor to give a single term value. When the dividend is greater than the divisor, the result obtained is greater than 1, or else it would be less than 1.
+Example: 4 ÷ 2 = 2
+
+Boolean operator
+ There are different kinds of the operators, such as arithmetic, relational, bitwise, assignment, etc., in the C programming language. The assignment operator is used to assign the value, variable and function to another variable. Let's discuss the various types of the assignment operators such as =, +=, -=, /=, *= and %=. The binary equality operators compare their operands for strict equality or inequality. The equality operators, equal to (==) and not equal to (!=), have lower precedence than the relational operators, but they behave similarly. The result type for these operators is bool. The equal-to operator (==) returns true if both operands have the same value; otherwise, it returns false. The not-equal-to operator (!=) returns true if the operands don't have the same value; otherwise, it returns false.
