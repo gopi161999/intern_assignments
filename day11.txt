@@ -1,0 +1,39 @@
+Day 11
+
+    Today i learned server and client working functions, i executed some basic methods which is used in the node js, three are given below in the statement
+      * get 
+      * post
+      * put
+      * delete
+
+Put
+The app.put() function routes the HTTP PUT requests to the specified path with the specified callback functions.
+ app.put(path, callback [, callback ...])
+      1. Path: The path for which the middleware function is invoked and can be any of:
+       * A string representing a path.
+       * A path pattern.
+       * A regular expression pattern to match paths.
+       * An array of combinations of any of the above.
+      2. Callback: Callback functions can be:
+       * A middleware function.
+       * A series of middleware functions (separated by commas).
+       * An array of middleware functions.
+       * A combination of all of the above.
+
+Get
+    The app.get() function routes the HTTP GET Requests to the path which is being specified with the specified callback functions. Basically it is intended for binding the middleware to your application.  
+ app.get( path, callback )
+     1.path: It is the path for which the middleware function is being called. 
+     2.callback: They can be a middleware function or series/array of middleware functions.
+
+Post
+  app.post(route, function(req, res)
+   POST is a request method supported by HTTP used by the World Wide Web. The HTTP POST method sends data to the server. The type of the body of the request is indicated by the Content-Type header. We use Express.js in order to create a server and to make requests (GET, POST, etc).
+
+Delete
+   The app.delete() function is used to route the HTTP DELETE requests to the path which is specified as parameter with the callback functions being passed as parameter.
+ app.delete(path, callback)
+     1.path: It is the path for which the middleware function is being called. 
+     2.callback: They can be a middleware function or series/array of middleware functions.
+
+    
