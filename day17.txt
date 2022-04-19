@@ -1,0 +1,35 @@
+day 17
+  
+For my presentation purpose i studied following methods and i implemented in node js also.
+
+Put
+The app.put() function routes the HTTP PUT requests to the specified path with the specified callback functions.
+ app.put(path, callback [, callback ...])
+      1. Path: The path for which the middleware function is invoked and can be any of:
+       * A string representing a path.
+       * A path pattern.
+       * A regular expression pattern to match paths.
+       * An array of combinations of any of the above.
+      2. Callback: Callback functions can be:
+       * A middleware function.
+       * A series of middleware functions (separated by commas).
+       * An array of middleware functions.
+       * A combination of all of the above.
+
+Get
+    The app.get() function routes the HTTP GET Requests to the path which is being specified with the specified callback functions. Basically it is intended for binding the middleware to your application.  
+ app.get( path, callback )
+     1.path: It is the path for which the middleware function is being called. 
+     2.callback: They can be a middleware function or series/array of middleware functions.
+
+Post
+  app.post(route, function(req, res)
+   POST is a request method supported by HTTP used by the World Wide Web. The HTTP POST method sends data to the server. The type of the body of the request is indicated by the Content-Type header. We use Express.js in order to create a server and to make requests (GET, POST, etc).
+
+Delete
+   The app.delete() function is used to route the HTTP DELETE requests to the path which is specified as parameter with the callback functions being passed as parameter.
+ app.delete(path, callback)
+     1.path: It is the path for which the middleware function is being called. 
+     2.callback: They can be a middleware function or series/array of middleware functions
+
+After that i started learn something called server and client connection,Server - A system that provides services to other systems in its network. There are file servers, boot servers, database servers, license servers, print servers, installation servers, and even servers for particular applications. This chapter uses the term server to mean a system that provides file systems and installation software for other systems on the network. Client - A system that uses remote services from a server. Some clients have limited disk storage capacity, or perhaps none at all, and they have to rely on remote file systems from a server to function. Other clients might use remote services (such as installation software) from a server, but they don't rely on a server to function. A standalone system, which has its own hard disk containing the root (/), /usr, and /export/home file systems and swap space, is a good example of this type of client.finally anup gave brief explaination about presentation, i got some idea about presentation. askin gave a session about responsibity and obession, it gave me some changes in my daily activities

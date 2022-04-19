@@ -1,0 +1,27 @@
+Day 18 
+
+ A server is a software or hardware device that accepts and responds to requests made over a network. The device that makes the request, and receives a response from the server, is called a client. On the Internet, the term "server" commonly refers to the computer system that receives requests for a web files and sends those files to the client.Servers manage network resources. For example, a user may set up a server to control access to a network, send/receive e-mail, manage print jobs, or host a website. They are also proficient at performing intense calculations. Some servers are committed to a specific task, often referred to as dedicated. However, many servers today are shared servers that take on the responsibility of e-mail, DNS, FTP, and even multiple websites in the case of a web server.Because they are commonly used to deliver services that are constantly required, most servers are never turned off. Consequently, when servers fail, they can cause the network users and company many problems. To alleviate these issues, servers are commonly set up to be fault tolerant.The following list contains links to various server types.
+
+		    *Application server
+		    *Blade server
+		    *Cloud server
+		    *Database server
+		    *Dedicated server
+		    *Domain name service
+		    *File server
+		    *Mail server
+		    *Print server
+		    *Proxy server
+		    *Standalone server
+		    *Web server
+  Used in home and corporate networks, a client is any computer hardware or software device that requests access to a service provided by a server. Clients are typically seen as the requesting program or user in a client-server architecture. Client end-user devices typically include desktop computers, laptops and smartphones. The following examines the four ways to define the different types of clients:
+
+    	*Thick client. Thick clients provide a majority of resources and data processing. These clients rely only lightly on a server; instead, they perform most operations client-side.
+
+    	*Thin client. These lightweight clients rely heavily on a server for resources and to perform most of the data processing.
+   
+	*Hybrid client. Hybrid clients are a combination of both thin and thick clients. This type of client processes data locally but relies on a server to store persistent data.
+    
+	*Zero client. Zero clients are slimmer and more cost-effective than thin clients. These client devices require no configuration and have nothing stored on them. They also use less power than thick or thin clients.
+
+
